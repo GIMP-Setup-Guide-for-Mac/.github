@@ -11,15 +11,15 @@
 
 🎯 What You Unlock
 
-    🖼 Full-featured image editing tools
+🖼 Full-featured image editing tools
 
-    🎨 Advanced photo manipulation and graphic design
+🎨 Advanced photo manipulation and graphic design
 
-    🧰 Support for layers, masks, and filters
+🧰 Support for layers, masks, and filters
 
-    🚫 No internet connection or activation required
+🚫 No internet connection or activation required
 
-    🛠 Open-source, cross-platform software
+🛠 Open-source, cross-platform software
 
 🖼 Preview
 
