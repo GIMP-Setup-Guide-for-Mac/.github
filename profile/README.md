@@ -23,13 +23,13 @@
 
 🖼 Preview
 
-![GIMP Interface](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnshD5FV2htju_ZZsbl7DWqkIiEGau9MhTwOdqBkqMSY8l6v4Wnj1BxqGZkb6ZyOLzD7-PjASoiSDd8phZlRWO1gvJtSc6rdbvOceClBJBsxXO-S-1mEd9w182X1VLMAtcZ0ivZUxnKKo/s1600/gimp-show-all.png)  
+![GIMP Interface](https://i.ytimg.com/vi/GsY8Md-qMyw/maxresdefault.jpg)  
 *GIMP showing all tool options*
 
-![GIMP UI Update](https://www.gimp.org/release-notes/images/2.10-update-ui.jpg)  
+![GIMP UI Update](https://www.competencemac.com/photo/art/grande/69423048-48554738.jpg?v=1670336332)  
 *Updated UI in GIMP 2.10*
 
-![GIMP GEGL Curtain](https://www.gimp.org/news/2016/2016-07-13%20GIMP%202.9.4%20Released/gimp-2-9-4-gegl-curtain.jpg)  
+![GIMP GEGL Curtain](https://www.macworld.com/wp-content/uploads/2023/01/best_pro_photo_editor_mac_gimp_2000.jpg?quality=50&strip=all&w=1024)  
 *GIMP with GEGL curtain effect*
 
 ### 🔎 SEO Keywords
