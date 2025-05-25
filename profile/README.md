@@ -23,7 +23,7 @@
 
 🖼 Preview
 
-![GIMP Interface](https://i.ytimg.com/vi/GsY8Md-qMyw/maxresdefault.jpg)  
+![GIMP Interface](https://i.ytimg.com/vi/FrKc8R99n6I/maxresdefault.jpg)  
 *GIMP showing all tool options*
 
 ![GIMP UI Update](https://www.competencemac.com/photo/art/grande/69423048-48554738.jpg?v=1670336332)  
